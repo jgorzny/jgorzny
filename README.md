@@ -1,6 +1,6 @@
 ### Jan Gorzny
 
-I am currently working at [Quantstamp](https://quantstamp.com/), after completing my PhD at the [University of Waterloo](https://uwaterloo.ca/). 
+I am currently working on [Zircuit](https://www.zircuit.com/). I completed my PhD at the [University of Waterloo](https://uwaterloo.ca/). 
 I studied graph algorithms and complexity and graduated in 2022.
 At Quantstamp, I am exploring scaling solutions for various blockchains, formal methods, and security.
 
