@@ -4,7 +4,7 @@ I am currently working on [Zircuit](https://www.zircuit.com/). I completed my Ph
 I studied graph algorithms and complexity and graduated in 2022.
 I am interested in (secure) scaling solutions for blockchains, formal methods, and web3 in general.
 
-My permanent [website](http://www.crypticcode.ca/jan.gorzny/) includes some additional profiles and methods to contact me.
+My permanent [website](https://jgorzny.ca/) includes some additional profiles and methods to contact me.
 
 <!---
 Comments:
